@@ -12,7 +12,7 @@
 > ### 💎 Activity
 
 
-1. `2024.06.28 ~ Now` : **CookApps, Inc. 슈퍼루키 인턴쉽 7기**
+1. `2024.06.28 ~ 2024.09.30` : **CookApps, Inc. 슈퍼루키 인턴쉽 7기**
 1. `2024.03.25 ~ 2024.04.24` : **Kong Studios, Inc. Junior Prototyper**
 2. `2023.03.30 ~ Now` : **ProjectLamb : Sophia 게임 개발**
 3. `2023.05 ~ 2023.11` : **정보처리기사 합격**
