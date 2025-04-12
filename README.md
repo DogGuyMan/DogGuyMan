@@ -33,7 +33,6 @@
 <div align=center>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DogGuyMan&amp;hide=ShaderLab,Html,HLSL&amp;layout=compact&langs_count=10&theme=onedark" alt="Top Langs" width=33%>
     <a href="https://solved.ac/felipuss/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=felipuss" alt="Solved.ac&#xD504;&#xB85C;&#xD544;" width=50%></a>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/HD_transparent_picture.png" width=33%>
 </div>
 
 ---
