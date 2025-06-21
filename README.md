@@ -18,7 +18,7 @@
 > ### 💎 Activity
 
 
-1. `2025.03.04 ~ Now` : **Metric Studio, Gamerecipe Inc. 클라이언트 개발 현장실습**
+1. `2025.03.04 ~ 2025.06.23` : **Metric Studio, Gamerecipe Inc. 클라이언트 개발 현장실습**
 2. `2024.06.28 ~ 2024.09.30` : **CookApps, Inc. 슈퍼루키 인턴쉽 7기**
 3. `2024.03.25 ~ 2024.04.24` : **Kong Studios, Inc. Junior Prototyper**
 4. `2023.03.30 ~ 2025.03.03` : **ProjectLamb : Sophia 게임 개발**
