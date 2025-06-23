@@ -56,7 +56,7 @@
 
 * ![MySql](https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=MySql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-#### Build Generator 
+#### Build System & Generator 
 
 * ![](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=fff) ![](https://img.shields.io/badge/GNU-green?style=for-the-badge&&logo=GNU&logoColor=000) ![](https://img.shields.io/badge/-Xcode-000?style=for-the-badge&logo=Xcode)
 
