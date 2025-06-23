@@ -41,27 +41,31 @@
 
 #### Problem Solving
 
-* ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+* ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white) 
 
 #### GameDevelop
 
 * ![Unity](https://img.shields.io/badge/unity-000?style=for-the-badge&logo=unity&logoColor=white)  ![FMOD](https://img.shields.io/badge/FMOD-000?style=for-the-badge&logo=fmod&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 
-#### Frontend
+#### Backend & Cloud System
 
-* ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white) ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white) ![typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![html5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![sass](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+* ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![AppsScript](https://img.shields.io/badge/AppsScript-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white) ![typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![nodedotjs](https://img.shields.io/badge/Express-nodejs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+* ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-D86613?style=for-the-badge&logo=AWS%20Lambda&logoColor=white) ![Amazon S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white) ![](https://img.shields.io/badge/Amazon%20API%20Gateway-F34547?style=for-the-badge&logo=amazonapigateway&logoColor=white)
 
-#### Backend
+#### DBMS
 
-* ![MySql](https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=MySql&logoColor=white) ![nodedotjs](https://img.shields.io/badge/Express-nodejs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![AppsScript](https://img.shields.io/badge/AppsScript-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white)
+* ![MySql](https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=MySql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### Build Generator 
+
+* ![](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=fff) ![](https://img.shields.io/badge/GNU-green?style=for-the-badge&&logo=GNU&logoColor=000) ![](https://img.shields.io/badge/-Xcode-000?style=for-the-badge&logo=Xcode)
 
 
-#### Tools
 
-* ![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white) ![DrawIO](https://img.shields.io/badge/DrawIO-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white) ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 
 #### Design
-* `ClipStudio` `Photoshop` `Procreate` `AfterEffect` `Blender` `Figma`
+* `ClipStudio` `Photoshop` `Procreate` `GIMP` `Figma`
+
 
 ---
 
@@ -70,5 +74,3 @@
 |ProjectLamb|EvenIGame|
 |:-:|:-:|
 |<a href="https://github.com/ProjectLamb"><img src="https://github.com/ProjectLamb.png" width="90">|<a href="https://github.com/EvenIGame"><img src="https://github.com/EvenIGame.png" width="90"></a>|
-
---- 
