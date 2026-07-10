@@ -4,7 +4,6 @@
 
 <div align=center>
     <h2> 🎨 Artistic Developer 💻 </h2>
-    <h3>게임 클라이언트 개발자 홍상준 입니다. </h3>
 </div>
 
 <div align=center>
